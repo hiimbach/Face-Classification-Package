@@ -3,7 +3,7 @@ This repository is my project in Techainer Bootcamp 2022. The purpose of this pr
 
 ## How to setup
 
-Model weights can be download with: `pip3 install dvc[gdrive]==2.9.2 && dvc pull`. Ask me if your google drive account does not have access to the weights folder yet
+Model weights can be download with: `pip install dvc && dvc pull`. Ask me if your google drive account does not have access to the weights folder yet
 
 ### Local development
 - Make sure to have mamba installed
